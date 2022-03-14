@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kbCRCyphv0OLlcOMh7Vja3LIYYrDYsWCM9Sm8St6+XyOtFENAjxImw348SDM3SMq5GMI3H+QtTxEIcWLMwRiaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Billy\\source\\repos\\RonKanyeJSON\\RonKanyeJSON\\RonKanyeJSON.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Billy\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
